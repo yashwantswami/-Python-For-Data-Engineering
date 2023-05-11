@@ -36,7 +36,7 @@ Python for data engineering, learn how to work with different file formats and h
 * Scrape Amazon Data Using Python
 
 
-## Module 6: [Web Scraping Using Python](https://github.com/yashwantswami/python-for-data-engineering/tree/main/6.%20End-To-End%20Data%20Pipeline%20Project)
+## Module 6: [Web Scraping Using Python](https://github.com/yashwantswami/Python-For-Data-Engineering/tree/main/6.%20Web%20Scraping%20Using%20Python)
 Web scraping allows you to extract relevant data from the Amazon website and save it in a spreadsheet or JSON format. You can even automate the process to update the data on a regular, weekly or monthly basis. There is currently no way to simply export product data from Amazon to a spreadsheet
 
 
